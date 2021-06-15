@@ -6,7 +6,7 @@
 # My solution for CoronaSafe Engineering Fellowship
 
 
-I did not pass one testcase. Many users faced this for no reasona. 
+I did not pass one testcase. Many users faced this for no reason. 
 
  ● list todos in reverse order (added latest first)
 
