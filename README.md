@@ -23,11 +23,6 @@ I did not pass one testcase. Many users faced this for no reasona.
 	
 	
 	
-#  SPENT 3 DAYS ON  THIS, BUT DID NOT FIND SOLUTION..!
-
-
-
-
 
 # CoronaSafe Engineering Fellowship Test Problem
 
