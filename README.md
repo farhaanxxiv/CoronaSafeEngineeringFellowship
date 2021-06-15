@@ -3,10 +3,10 @@
 
 
 
-#THIS WAS FOR FELLOWSHIP
+# My solution for CoronaSafe Engineering Fellowship
 
 
-###ERROR 
+I did not pass one testcase. Many users faced this for no reasona. 
 
  ● list todos in reverse order (added latest first)
 
@@ -23,7 +23,7 @@
 	
 	
 	
-	// SPENT 3 DAYS ON  THIS, BUT DID NOT FIND SOLUTION..!
+#  SPENT 3 DAYS ON  THIS, BUT DID NOT FIND SOLUTION..!
 
 
 
